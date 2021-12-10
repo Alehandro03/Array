@@ -1,0 +1,16 @@
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\bin\Debug\net5.0\Massiv.exe
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\bin\Debug\net5.0\Massiv.deps.json
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\bin\Debug\net5.0\Massiv.runtimeconfig.json
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\bin\Debug\net5.0\Massiv.runtimeconfig.dev.json
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\bin\Debug\net5.0\Massiv.dll
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\bin\Debug\net5.0\ref\Massiv.dll
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\bin\Debug\net5.0\Massiv.pdb
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\obj\Debug\net5.0\Massiv.csproj.AssemblyReference.cache
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\obj\Debug\net5.0\Massiv.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\obj\Debug\net5.0\Massiv.AssemblyInfoInputs.cache
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\obj\Debug\net5.0\Massiv.AssemblyInfo.cs
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\obj\Debug\net5.0\Massiv.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\obj\Debug\net5.0\Massiv.dll
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\obj\Debug\net5.0\ref\Massiv.dll
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\obj\Debug\net5.0\Massiv.pdb
+D:\VS\HomeWork\HomeWork\Massiv\Massiv\obj\Debug\net5.0\Massiv.genruntimeconfig.cache
