@@ -1,0 +1,16 @@
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\bin\Debug\net5.0\ВoubleАrray.exe
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\bin\Debug\net5.0\ВoubleАrray.deps.json
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\bin\Debug\net5.0\ВoubleАrray.runtimeconfig.json
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\bin\Debug\net5.0\ВoubleАrray.runtimeconfig.dev.json
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\bin\Debug\net5.0\ВoubleАrray.dll
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\bin\Debug\net5.0\ref\ВoubleАrray.dll
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\bin\Debug\net5.0\ВoubleАrray.pdb
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\obj\Debug\net5.0\ВoubleАrray.csproj.AssemblyReference.cache
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\obj\Debug\net5.0\ВoubleАrray.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\obj\Debug\net5.0\ВoubleАrray.AssemblyInfoInputs.cache
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\obj\Debug\net5.0\ВoubleАrray.AssemblyInfo.cs
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\obj\Debug\net5.0\ВoubleАrray.csproj.CoreCompileInputs.cache
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\obj\Debug\net5.0\ВoubleАrray.dll
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\obj\Debug\net5.0\ref\ВoubleАrray.dll
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\obj\Debug\net5.0\ВoubleАrray.pdb
+D:\VS\HomeWork\HomeWork\ВoubleАrray\ВoubleАrray\obj\Debug\net5.0\ВoubleАrray.genruntimeconfig.cache
